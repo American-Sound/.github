@@ -11,3 +11,7 @@ Every single solution we provide and service we offer is made possible by our pe
 American Sound has begun an initiative to open-source select utilities and technologies that we develop and use internally. These projects are shared intentionally and do not expose sensitive information or proprietary systems.
 
 Our GitHub organization hosts a growing collection of repositories, including A/V control system plugins, Microsoft Azure DevOps scripts, programming templates, and related tools. Unless otherwise noted, projects are free to use under the terms of their respective licenses, which can be found in each repository’s LICENSE file. We welcome contributions in accordance with [our contribution guidelines](https://github.com/American-Sound/.github/blob/main/doc/CONTRIBUTING.md), unless a repository states otherwise.
+
+## Quality & Testing
+
+All software releases published to this organization have been fully tested in either a production client environment or the American Sound integration lab prior to publication. Each repository includes testing documentation where applicable.

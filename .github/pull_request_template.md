@@ -17,3 +17,9 @@ This pull request addresses #[**ISSUE NUMBER**].
 ### Notes
 
 [**ANY ADDITIONAL NOTES REVIEWER MIGHT NEED**]
+
+### Testing Attestation
+
+- [ ] Changes have been tested in either a production client environment or the ASEI integration lab
+- [ ] Test results documented (devices tested, firmware versions, pass/fail)
+- [ ] No regressions observed in existing functionality
