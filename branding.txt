@@ -1,0 +1,8 @@
+    _    ____  _____ ___ 
+   / \  / ___|| ____|_ _|
+  / _ \ \___ \|  _|  | | 
+ / ___ \ ___) | |___ | | 
+/_/   \_\____/|_____|___|
+
+Copyright (c) ____  American Sound & Engineering Inc.
+Licensed under the ____. See LICENSE for details.
