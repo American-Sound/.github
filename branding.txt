@@ -4,5 +4,5 @@
  / ___ \ ___) | |___ | | 
 /_/   \_\____/|_____|___|
 
-Copyright (c) ____  American Sound & Engineering Inc.
+Copyright (c) ____  American Sound & Electronics Inc.
 Licensed under the ____. See LICENSE for details.
